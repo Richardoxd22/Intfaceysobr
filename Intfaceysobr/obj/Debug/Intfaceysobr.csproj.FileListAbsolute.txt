@@ -1,0 +1,8 @@
+C:\Users\richa\source\repos\Intfaceysobr\Intfaceysobr\obj\Debug\Intfaceysobr.csproj.AssemblyReference.cache
+C:\Users\richa\source\repos\Intfaceysobr\Intfaceysobr\obj\Debug\Intfaceysobr.csproj.SuggestedBindingRedirects.cache
+C:\Users\richa\source\repos\Intfaceysobr\Intfaceysobr\obj\Debug\Intfaceysobr.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\Intfaceysobr\Intfaceysobr\bin\Debug\Intfaceysobr.exe.config
+C:\Users\richa\source\repos\Intfaceysobr\Intfaceysobr\bin\Debug\Intfaceysobr.exe
+C:\Users\richa\source\repos\Intfaceysobr\Intfaceysobr\bin\Debug\Intfaceysobr.pdb
+C:\Users\richa\source\repos\Intfaceysobr\Intfaceysobr\obj\Debug\Intfaceysobr.exe
+C:\Users\richa\source\repos\Intfaceysobr\Intfaceysobr\obj\Debug\Intfaceysobr.pdb
